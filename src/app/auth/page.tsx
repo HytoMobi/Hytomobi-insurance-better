@@ -13,7 +13,7 @@ const Login: React.FC = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
 
-    if (email === "vikas@hytomobi.in" && password === "vikashytomobi@12") {
+    if (email === "vikash@hytomobi.in" && password === "vikashytomobi@12") {
       const userInfo = {
         email: email,
         timestamp: new Date().getTime(),
