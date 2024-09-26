@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /src/api/           # Block API routes
+Disallow: /src/styles/        # Block internal styles
+Disallow: /node_modules/      # Block external packages
+Disallow: /next.config.js     # Block Next.js config file
+Allow: /src/app/              # Allow user-facing pages in the app directory
+Allow: public/  
