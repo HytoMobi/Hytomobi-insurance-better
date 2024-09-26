@@ -1,0 +1,41 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- Home Page -->
+   <url>
+      <loc>https://www.investmentbetter.com/</loc>
+      <lastmod>2024-09-26</lastmod>
+      <changefreq>monthly</changefreq> <!-- Data doesn't change often -->
+      <priority>1.0</priority>
+   </url>
+
+   <!-- Loan Page -->
+   <url>
+      <loc>https://www.investmentbetter.com/loan</loc>
+      <lastmod>2024-09-26</lastmod>
+      <changefreq>monthly</changefreq> <!-- Infrequent updates -->
+      <priority>0.9</priority>
+   </url>
+
+   <!-- Insurance Page -->
+   <url>
+      <loc>https://www.investmentbetter.com/insurance</loc>
+      <lastmod>2024-09-26</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <!-- Investment Page -->
+   <url>
+      <loc>https://www.investmentbetter.com/investment</loc>
+      <lastmod>2024-09-26</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <!-- Blog Page -->
+   <url>
+      <loc>https://www.investmentbetter.com/blog</loc>
+      <lastmod>2024-09-26</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset>

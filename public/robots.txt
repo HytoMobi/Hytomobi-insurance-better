@@ -5,3 +5,6 @@ Disallow: /node_modules/      # Block external packages
 Disallow: /next.config.js     # Block Next.js config file
 Allow: /src/app/              # Allow user-facing pages in the app directory
 Allow: public/  
+
+# Add sitemap reference
+Sitemap: https://www.investmentbetter.com/sitemap.xml
